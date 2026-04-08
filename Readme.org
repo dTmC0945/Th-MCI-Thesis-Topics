@@ -1,4 +1,4 @@
-# Created 2026-04-08 Wed 23:05
+# Created 2026-04-08 Wed 23:06
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -64,9 +64,7 @@ and 2nd-order ODEs given to the circuit as input.
 As an example, using the circuit, the behaviour of a mass-damper-spring system will be
 simulated:
 
-\begin{equation*}
-  m \frac{d^2x}{dt^2} + c\frac{dx}{dt} + kx = f(x),
-\end{equation*}
+$m \frac{d^2x}{dt^2} + c\frac{dx}{dt} + kx = f(x),$
 
 where the values of the mass ($m$), damper ($c$) and spring ($k$) will be set using a signal
 generator.
