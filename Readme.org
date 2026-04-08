@@ -1,4 +1,4 @@
-# Created 2026-04-08 Wed 23:27
+# Created 2026-04-08 Wed 23:29
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -10,6 +10,7 @@
   - [[#masters][Masters]]
     - [[#simulation-of-a-synchronous-reluctance-machine][Simulation of a Synchronous Reluctance Machine]]
     - [[#analog-computer-for-solving-odes][Analog Computer for Solving ODEs]]
+    - [[#fault-detection-in-electrical-machines][Fault Detection in Electrical Machines]]
   - [[#bachelors][Bachelors]]
 
 * Introduction
@@ -86,4 +87,28 @@ circuit design.
 The outcome of this work will be used extensively in *M.Sc Higher Mathematics I*
 to showcase ODE solving and will be used in demonstrations for outreach and
 pedagogic activities.
+*** Fault Detection in Electrical Machines
+
+Electrical machines, while the backbone of industry, are prone to various faults and require
+constant monitoring to ensure safe and dependable functioning. 
+
+A potential fault in electrical machinery results in unscheduled downtime, necessitating the
+prompt assessment of any abnormal circumstances in rotating electrical machines. 
+
+The work will require to implement machine learning algorithms for the service of fault
+detection.
+**** Previous Knowledge
+
+The student is required to have a working knowledge of:
+
+- A good understanding of machine learning/signal processing is preferred,
+- A strong background in programming,
+- Working knowledge of electrodynamics is beneficial.
+**** Outcome
+
+The outcome will be a work producing a possible novel approach to detecting electrical faults
+in an electrical motor.
+
+The student will gain significant experience working with signal processing and programming
+and developing large machine learning algorithms.
 ** Bachelors
