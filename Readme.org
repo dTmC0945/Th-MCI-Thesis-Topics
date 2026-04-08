@@ -1,4 +1,4 @@
-# Created 2026-04-08 Wed 22:59
+# Created 2026-04-08 Wed 23:05
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -9,6 +9,7 @@
 - [[#introduction][Introduction]]
   - [[#masters][Masters]]
     - [[#simulation-of-a-synchronous-reluctance-machine][Simulation of a Synchronous Reluctance Machine]]
+    - [[#analog-computer-for-solving-odes][Analog Computer for Solving ODEs]]
   - [[#bachelors][Bachelors]]
 
 * Introduction
@@ -44,4 +45,44 @@ industry standard software (i.e., CERN, Audi, Porsche, ...).
 
 This work will be used heavily in lectures as showcase for how a machine can be designed and
 analysed.
+*** Analog Computer for Solving ODEs
+
+Analog computer are a class of devices in which continuously variable physical quantities,
+(i.e., electrical potential) are represented in a way \textit{analogous} to the corresponding
+quantities in the problem to be solved. The analog system is set up according to initial
+conditions and then allowed to change freely. Answers to the problem are obtained by
+measuring the variables in the analog model and are seeing a resurgence as a good alternative
+to digital computers.
+
+There are numerous examples such as the /Phillip's Machine/ which was used to determine the
+economic process at a national level using fluidic logic, or the /Robert's Machine/ which was
+used to determine the tides.
+
+Project -- Design, test, and construct an electrical circuit which is capable of solving 1st-
+and 2nd-order ODEs given to the circuit as input.
+
+As an example, using the circuit, the behaviour of a mass-damper-spring system will be
+simulated:
+
+\begin{equation*}
+  m \frac{d^2x}{dt^2} + c\frac{dx}{dt} + kx = f(x),
+\end{equation*}
+
+where the values of the mass ($m$), damper ($c$) and spring ($k$) will be set using a signal
+generator.
+**** Previous Knowledge
+
+The student is required to have a working knowledge of:
+
+- Working understanding with PCBs,
+- Circuit design and soldering.
+- Understanding ODEs are a plus.
+**** Outcome
+
+The outcome a working example of an analog computer constructed from electrical circuit
+components. The student will also gain a strong understanding with circuit design.  
+
+The outcome of this work will be used extensively in *M.Sc Higher Mathematics I* to
+showcase ODE solving and will be used in demonstrations for outreach and pedagogic
+activities. 
 ** Bachelors
