@@ -1,4 +1,4 @@
-# Created 2026-04-10 Fri 07:58
+# Created 2026-04-10 Fri 08:15
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -13,8 +13,12 @@
   - [[#fault-detection-in-electrical-machines][Fault Detection in Electrical Machines]]
 - [[#bachelors][Bachelors]]
   - [[#low-resolution-license-plate-recognition][Low Resolution License Plate Recognition]]
+- [[#previous-supervised-thesis][Previous Supervised Thesis]]
+  - [[#liverpool][Liverpool]]
 
 * Introduction
+
+Welcome to the landing page of my proposed thesis topics.
 
 Below are the topics currenty proposed. For a quick overview please have a look
 at the following table
@@ -111,3 +115,15 @@ and developing large machine learning algorithms.
 * Bachelors
 
 ** Low Resolution License Plate Recognition
+* Previous Supervised Thesis
+
+** Liverpool
+
+- Design of an Olfactory (smell) Display for Virtual Environments
+- Design and Construction of a Mendocino Motor
+- Design and Analysis of an Induction machine Using Software and Induction
+  Machine Control Methods
+- Design and testing of a PID (proportional–integral–derivative) Controller for
+  Balancing a Ball
+- Design and Implementation of Cyclic Redundancy Check (CRC) During Arduino
+  Transmission
