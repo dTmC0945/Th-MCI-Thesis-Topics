@@ -1,4 +1,4 @@
-# Created 2026-04-10 Fri 07:54
+# Created 2026-04-10 Fri 07:58
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -20,9 +20,9 @@ Below are the topics currenty proposed. For a quick overview please have a look
 at the following table
 
 #+name: TOPIC-NAMES
-| Degree | Topic                                                                                               | Availability |
-|--------+-----------------------------------------------------------------------------------------------------+--------------|
-| M.Sc   | [[*Simulation of a Synchronous Reluctance Machine][Simulation of a Synchronous Reluctance Machine]] | Yes          |
+| Degree | Topic                                          | Availability |
+|--------+------------------------------------------------+--------------|
+| M.Sc   | Simulation of a Synchronous Reluctance Machine | Yes          |
 #+TBLFM: 
 * Masters
 
@@ -52,20 +52,24 @@ The student is required to use open-source software such as gmsh for mesh
 generation and OpenFOAM, GetDP, or oneLAB to get a performance analysis.
 ** Analog Computer for Solving ODEs
 
-Analog computer are a class of devices in which continuously variable physical
-quantities, (i.e., electrical potential) are represented in a way
-\textit{analogous} to the corresponding quantities in the problem to be
-solved. The analog system is set up according to initial conditions and then
-allowed to change freely. Answers to the problem are obtained by measuring the
-variables in the analog model and are seeing a resurgence as a good alternative
-to digital computers.
+Analog computer are a class of devices whereby continuously variable physical
+quantities, (i.e., electrical potential) are represented in a way that is
+analougous to the corresponding quantities in the problem to be solved. The
+analog system is set up according to initial conditions and then allowed to
+change freely.
+
+Answers to the problem are obtained by measuring the variables in the analog
+model and are seeing a resurgence as a good alternative to digital computers.
 
 There are numerous examples such as the /Phillip's Machine/ which was used to
 determine the economic process at a national level using fluidic logic, or the
 /Robert's Machine/ which was used to determine the tides.
 
-Project -- Design, test, and construct an electrical circuit which is capable of
-solving 1st- and 2nd-order ODEs given to the circuit as input.
+An interesting article by Quanta magazine on Analog computers can be seen [[https://www.quantamagazine.org/what-is-analog-computing-20240802/][here]].
+
+The work of this thesis is to design, test, and construct an electrical circuit
+which is capable of solving 1st- and 2nd-order ODEs given to the circuit as
+input.
 
 As an example, using the circuit, the behaviour of a mass-damper-spring system
 will be simulated:
@@ -74,22 +78,12 @@ $m \frac{d^2x}{dt^2} + c\frac{dx}{dt} + kx = f(x),$
 
 where the values of the mass ($m$), damper ($c$) and spring ($k$) will be set
 using a signal generator.
-*** Previous Knowledge
 
-The student is required to have a working knowledge of:
+To achive the aforementioned effectively, the following are required:
 
 - Working understanding with PCBs,
 - Circuit design and soldering.
 - Understanding ODEs are a plus.
-*** Outcome
-
-The outcome a working example of an analog computer constructed from electrical
-circuit components. The student will also gain a strong understanding with
-circuit design.
-
-The outcome of this work will be used extensively in *M.Sc Higher Mathematics I*
-to showcase ODE solving and will be used in demonstrations for outreach and
-pedagogic activities.
 ** Fault Detection in Electrical Machines
 
 Electrical machines, while the backbone of industry, are prone to various faults and require
