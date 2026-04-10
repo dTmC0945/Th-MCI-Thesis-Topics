@@ -1,4 +1,4 @@
-# Created 2026-04-10 Fri 08:15
+# Created 2026-04-10 Fri 12:27
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -14,6 +14,7 @@
 - [[#bachelors][Bachelors]]
   - [[#low-resolution-license-plate-recognition][Low Resolution License Plate Recognition]]
 - [[#previous-supervised-thesis][Previous Supervised Thesis]]
+  - [[#mci][MCI]]
   - [[#liverpool][Liverpool]]
 
 * Introduction
@@ -117,13 +118,16 @@ and developing large machine learning algorithms.
 ** Low Resolution License Plate Recognition
 * Previous Supervised Thesis
 
+** MCI
+
+- (BSc) Dual Way Drive System for Electric Vehicles
 ** Liverpool
 
-- Design of an Olfactory (smell) Display for Virtual Environments
-- Design and Construction of a Mendocino Motor
-- Design and Analysis of an Induction machine Using Software and Induction
+- (BSc) Design of an Olfactory (smell) Display for Virtual Environments
+- (BSc) Design and Construction of a Mendocino Motor
+- (BSc) Design and Analysis of an Induction machine Using Software and Induction
   Machine Control Methods
-- Design and testing of a PID (proportional–integral–derivative) Controller for
+- (BSc) Design and testing of a PID (proportional–integral–derivative) Controller for
   Balancing a Ball
-- Design and Implementation of Cyclic Redundancy Check (CRC) During Arduino
+- (BSc) Design and Implementation of Cyclic Redundancy Check (CRC) During Arduino
   Transmission
