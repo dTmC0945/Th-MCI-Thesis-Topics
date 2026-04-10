@@ -1,4 +1,4 @@
-# Created 2026-04-10 Fri 07:53
+# Created 2026-04-10 Fri 07:54
 #+title: Proposed Thesis Topics
 #+author: Daniel McGuiness
 #+filetags: :manual:
@@ -20,9 +20,9 @@ Below are the topics currenty proposed. For a quick overview please have a look
 at the following table
 
 #+name: TOPIC-NAMES
-| Degree | Topic                                                                                              | Availability |
-|--------+----------------------------------------------------------------------------------------------------+--------------|
-| M.Sc   | [[Simulation of a Synchronous Reluctance Machine][Simulation of a Synchronous Reluctance Machine]] | Yes          |
+| Degree | Topic                                                                                               | Availability |
+|--------+-----------------------------------------------------------------------------------------------------+--------------|
+| M.Sc   | [[*Simulation of a Synchronous Reluctance Machine][Simulation of a Synchronous Reluctance Machine]] | Yes          |
 #+TBLFM: 
 * Masters
 
