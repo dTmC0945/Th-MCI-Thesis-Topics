@@ -21,7 +21,10 @@ Below are the thesis which were supervised by me during my time as a Lecturer.
 
 ## University of Liverpool
 
-Below are the thesis which were supervised by me during my time as a University Teacher.
+Below are the thesis which were supervised by me during my time as a University
+Teacher. As a side note, at Liverpool work carried out by B.Sc students are
+called Finaly Year Projects and they are more focused on the showcase of a given
+work/project than writing a thesis.
 
 | Degree | Topic                                                                                            |
 |--------|--------------------------------------------------------------------------------------------------|

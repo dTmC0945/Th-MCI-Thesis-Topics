@@ -5,10 +5,10 @@ book:
   author: "D.T. McGuiness, Ph.D"
   sidebar: 
     logo: "lms.png"
-    tools:  
-    - text: "GitHub Page"
+    tools: 
+    - href: "https://github.com/dTmC0945"
+      text: "GitHub Page"
       icon: github
-      href: "https://github.com/dTmC0945"
   chapters: ["index.qmd", "Masters-Topics.qmd", "Bachelors-Thesis.qmd", "Thesis-Guidelines.qmd", "Active-Thesis.qmd", "Past-Thesis.qmd"]
   page-footer: 
     left: "General Thesis Ideas and it's management by DTMc\n"
