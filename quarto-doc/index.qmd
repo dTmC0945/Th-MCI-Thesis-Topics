@@ -1,0 +1,61 @@
+
+# index
+
+Welcome to the landing page of my proposed thesis topics for **M.Sc** and **B.Sc**
+studies here at Management Center Innsbruck (MCI) along with all additional
+documentation and guidelines which I require throughout the development of the
+thesis.
+
+Below are my topics which are currently available. For a quick overview on what
+these topics contain, what is required, and what are its outcome, please have a
+look at the table below and you can then access its respective grade to get more
+information.
+
+::: {.callout-important}
+## First-Come First-Serve
+Some topic are can be in discussion but have yet to be official and therefore if
+you are interested in a topic and would like to work, act fast.
+:::
+
+| Degree | Topic                                                                 | Availability |
+|--------|-----------------------------------------------------------------------|--------------|
+| B.Sc   | Development of a GUI and Simulation for Induction Motors              | Yes          |
+| B.Sc   | Design and Implementation of Cyclic Redundancy Check for Transmission | Yes          |
+| B.Sc   | Design of a DC Motor Test Bench                                       | Yes          |
+| B.Sc   | Simulation of GNSS within the Gazebo Environment                      | Yes          |
+| B.Sc   | Shah-Mat: Implementation                                              | Yes          |
+| M.Sc   | Simulation of a Synchronous Reluctance Machine                        | Yes          |
+| M.Sc   | Analog Computer for Solving ODEs                                      | Yes          |
+| M.Sc   | Fault Detection in Electrical Machines                                | Yes          |
+| M.Sc   | Vector Control of Induction Motors using Embedded Computing           | Yes          |
+
+: Currently Available Thesis Topics
+
+
+## Enquiries
+
+Dept. of Mechatronics  
+Daniel T. McGuiness, Ph.D  
+Daniel.McGuiness@mci.edu​  
+**Tel:** +43 512 2070 - 3900
+
+
+## Ideas From Students
+
+Ideas from students are of course welcome and are open to discussion. The
+following are the topics which fall under my area of interests:
+
+-   Power Systems,
+-   Superconductive Physics,
+-   Open-Source Software,
+-   Electromagnetic Waves,
+-   Electrical Machine Design,
+-   Communication Methods,
+-   Mathematical Physics
+
+-DTMc  
+
+::: {.callout-note}
+The suggested ideas may require adjustments and/or revisions to fit into their
+respective degree level.
+:::

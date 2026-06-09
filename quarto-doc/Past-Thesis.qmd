@@ -1,0 +1,32 @@
+
+# Past Thesis
+
+The following thesis have been completed successfully either in the current
+institution or institutions before.
+
+
+## Management Center Innsbruck
+
+Below are the thesis which were supervised by me during my time as a Lecturer.
+
+| Degree | Topic                                                                                                                         |
+|--------|-------------------------------------------------------------------------------------------------------------------------------|
+| B.Sc   | Design and Construction of a Bidirectional Energy Transfer System                                                             |
+| M.Sc   | Evaluation of Cost Reduction Opportunities and Development of an Optimized Solution for an Engine Knock System                |
+| B.Sc   | Topography mapping using GPS signals                                                                                          |
+| B.Sc   | Cell Testing and Model Development of a Formula Student Car Battery                                                           |
+| B.Sc   | Lernplattform industrielle mobile Robotik – Weiterentwicklung von Hardware, Software und Tutorials Problemstellung/Motivation |
+| B.Sc   | Industrial Intralogistics - Improving an Autonomous Mobile Robot Learning Platform                                            |
+
+
+## University of Liverpool
+
+Below are the thesis which were supervised by me during my time as a University Teacher.
+
+| Degree | Topic                                                                                            |
+|--------|--------------------------------------------------------------------------------------------------|
+| B.Sc   | Design of an Olfactory (smell) Display for Virtual Environments                                  |
+| B.Sc   | Design and Construction of a Mendocino Motor                                                     |
+| B.Sc   | Design and Analysis of an Induction machine Using Software and Induction Machine Control Methods |
+| B.Sc   | Design and testing of a PID (proportional–integral–derivative) Controller for Balancing a Ball   |
+| B.Sc   | Design and Implementation of Cyclic Redundancy Check (CRC) During Arduino Transmission           |

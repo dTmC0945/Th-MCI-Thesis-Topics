@@ -1,0 +1,108 @@
+
+# Bachelors Thesis
+
+
+
+## Development of a GUI and Simulation for Induction Motors
+
+Induction machines are the working horse of industry as majority of electrical
+machines from a simple fan on your desk to list and cranes use induction
+machines. Therefore the study and the analysis of these machines would prove
+invaluable. This project will involve the dynamic modeling of a 3-phase
+induction machine using Python or C/C++. This work will then be designed in a
+way which is user accessible, whereby a GUI will be implemented with variables
+to allow the end-user to tweak the parameters and perform the simulations to
+see the effects.
+
+To achieve the required modeling, the students should have a working knowledge
+of:
+
+-   A good working knowledge of C/C++ or Python,
+-   A working understanding of induction machines.
+-   An interest in learning how to design a GUI for the written program
+
+The outcome will be a fully functional software platform which is changeable
+by the end-user.
+
+
+## Design and Implementation of Cyclic Redundancy Check for Transmission
+
+A **cyclic redundancy check** is an error-detecting code used in digital
+communication networks and storage systems to detect accidental changes to raw
+data. Blocks of data that are transmitted get a short check value attached to
+the block code, based on the remainder of a polynomial division of their
+contents. When retrieved, the calculation is redone and, in the event the check
+values do not match (i.e., when an error occurs during transmission), an action
+can be taken against data corruption.
+
+This project will involve an experimental design of a communication system
+involving two Arduinos. These two Arduinos will communicate with each other and
+check each transmitted message using CRCs. The user will introduce errors
+externally (i.e., drawing a magnet next to wires, or creating cross-talk) and
+observe the output from a display attached to the Arduinos.
+
+To achieve this test bed, the students is required to have:
+
+-   A good experience in programming C/C++,
+-   Designing of logic circuits,
+-   A good understanding of communication network topics.
+
+The outcome will be a fully functional experimental test-bed which will be used
+as a showcase of communication concepts.
+
+
+## Design of a DC Motor Test Bench
+
+The students should have knowledge of:
+
+-   Circuit design,
+-   CAD software experience,
+-   Basic knowledge on electric machines is a plus.
+
+DC Drives are one of the more versatile machines still used in industry due to
+their cost effective design and simple control methodologies. One of the
+advantages is their ability to adapt based on how their wiring is done for field
+and armature. This work will require the construction of a DC motor test bench
+for use in electric machine lectures.
+
+The outcome will be a working platform where the machine dynamic can be changed
+based on how the connections are done. These connections will be designed in a
+way as to easily be changed by the user. The student shall also gain practical
+experience with electric drive design and work with manufacturing of a product
+which takes different parts of electrical engineering and combine them. The
+student will also contribute to the development of new hardware to be used by
+the next generation of students.
+
+
+## Simulation of GNSS within the Gazebo Environment
+
+The problem he tackled was the fact that GNSS receivers have only very basic
+support in simulators for mobile robotics. The currently available simulated
+sensors have a very unfaithful error model of the estimated positions (usually
+only additive Gaussian noise or a small random walk). If you’ve ever worked with
+a real GNSS receiver, you know that this is far from what you get in reality.
+
+One of the most important factors that influence the computed position and its
+covariance is the visibility of the satellites. It influences both the DOP
+(dilution of precision), i.e., the geometry of the visible parts of
+constellations, and the convergence of the position estimation algorithm.
+
+Václav has implemented a raytracing algorithm that detects which satellites are
+hidden behind scene objects (buildings, vegetation, etc.) and computes a
+full-fledged RINEX observation log with only the unblocked signals or with some
+signals damaged (if they, e.g., passed through a tree). The algorithm can even
+simulate cycle slips for phase measurements if some satellite disappeared for a
+while and then was found again. You can use your favorite RINEX processing tool
+to get the position and covariance estimates.
+
+Our future direction is making the simulation model more complete (including
+atmospheric effects), also implementing the position estimation part in
+Gazebo/ROS using the standard interfaces, and making the plugin actually usable
+by the community (as the current version is not yet production quality
+software).
+
+
+## Shah-Mat: Implementation
+
+
+## Low Resolution License Plate Recognition

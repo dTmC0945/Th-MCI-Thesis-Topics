@@ -1,0 +1,26 @@
+
+# Thesis Guidelines
+
+To write a thesis which conforms to the guidelines set by MCI, a LaTeX standard
+was written, called `mcidoc` which its source file can be accessed in its
+[GitHub Repo](https://github.com/dTmC0945/C-MCI-LaTeX-Class-mcidoc).
+
+There are two (2) branches in which you need to use the `main` branch as the
+`develop` branch can contain **unstable** code.
+
+To access its documentation you can have a look at it [here](https://dtmc0945.github.io/C-MCI-LaTeX-Class-mcidoc/).
+
+::: {.callout-important}
+## A Thorough Refreshment on LaTeX
+If you need a *good-ish* documentation on how to use LaTeX, please have a look
+at the lecture repo [L-MCI-BSc-Academic-Writing](https://github.com/dTmC0945/L-MCI-BSc-Academic-Writing) which contains material for
+starting to work with LaTeX.
+:::
+
+As a reminder, below are the rough timelines of submission of thesis:
+
+| DATE      | STATE       |
+|-----------|-------------|
+| July      | 1st Attempt |
+| September | 2nd Attempt |
+| November  | Commisional |

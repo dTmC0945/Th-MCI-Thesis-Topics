@@ -1,0 +1,13 @@
+
+# Active Thesis
+
+Below are the thesis which are currently work in progress.
+
+| Degree | Topic                                                                           |
+|--------|---------------------------------------------------------------------------------|
+| B.Sc   | Implementation of Computer Vision Techniques for the Robotics Learning Platform |
+| B.Sc   | Determining Coin Value using Eddy Current detection and Neural Networks         |
+| B.Sc   | Development of HMI for use in Mobile Robotic Demonstration                      |
+| M.Sc   | Design and Construction of an Eddy Current Brake                                |
+| M.Sc   | Design, Implementation and Experimental Validation of a Vienna Rectifier        |
+| M.Sc   | Development and Evaluation of a Suitable Methods in PCB Recovery                |

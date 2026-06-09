@@ -1,0 +1,21 @@
+project: 
+  type: book
+book: 
+  title: "Thesis Central"
+  author: "D.T. McGuiness, Ph.D"
+  sidebar: 
+    logo: "lms.png"
+    tools:  
+    - text: "GitHub Page"
+      icon: github
+      href: "https://github.com/dTmC0945"
+  chapters: ["index.qmd", "Masters-Topics.qmd", "Bachelors-Thesis.qmd", "Thesis-Guidelines.qmd", "Active-Thesis.qmd", "Past-Thesis.qmd"]
+  page-footer: 
+    left: "General Thesis Ideas and it's management by DTMc\n"
+    right: "This book was built using Org-mode and Quarto\n"
+bibliography: "references.bib"
+format: 
+  html: 
+    theme: 
+      light: lumen
+      dark: darkly
