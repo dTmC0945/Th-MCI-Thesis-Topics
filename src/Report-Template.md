@@ -20,26 +20,40 @@
      ---------------------------------------------------------------------------
 -->
 
-# Thesis Weekly Report
+
+# General Overview 
+
+This repo holds all the relevant work of the following thesis:
+
+| DESCRIPTION     | VALUE                                           |
+|-----------------|-------------------------------------------------|
+| NAME            | Jason Brigham                                   |
+| MATRIKEL NUMBER | 504110212                                       |
+| DEGREE          | B.Sc                                            |
+| TITLE           | Effect of Slit Depth in Skewed Rotor Geometries |
+
+
+# Thesis Report
 
 This is a template for use in giving weekly reports on the progress on thesis
 
-| DESCRIPTION                | VALUE |
-|----------------------------|-------|
-| ISO WEEK NUMBER            | WK31  |
-| PLANNED SUBMISSION (MONTH) |       |
+## Week 05 Report
+
+| ISO WEEK NUMBER            |     | (WK 05) |
+| PLANNED SUBMISSION (MONTH) | MAY | (WK 21) |
+
+- Implementing CAD Drawings to ANSYS Maxwell.
+- Testing out different withs on stainless steel geometry to see their effect.
+- 
 
 <!-- ----------------------------------------------------------------------- -->
 
-# Additional Information
-
-1. It is mandatory for all students to create a project on Overleaf for their
-   weekly reports. You will add your weekly report to this project (each section
-   could have the title "Week starting DD/MM/YY"). Also, please email your
-   supervisor a PDF copy of the report before the group meeting. Please check the
-   USEFUL LINKS on the Lab Website to learn more about naming the project on
-   Overleaf and some suggestions for the weekly report.
-
+<!-- It is mandatory for all students to create a GitHub repo for their weekly
+<!-- reports along with all relevant research data unless discussed otherwise. 
+<!-- You will append your weekly reports to the primary README.md file
+<!-- within the repo. On Friday, the each repo will be checked for activities 
+<!-- and currently given repos. Failure to report will result in point deduction
+<!-- in the performance evaluation of your thesis.
 
 <!--  --------------------------------------------------------------------------
 <!--  Report-Template.md ends here.
