@@ -242,7 +242,7 @@ ul {
 
 /* Define the marker for the itemized list */
 ::marker {
-    color: #821131;
+    color: var(--chosen-science);
     font-size: 1.2em;
 }
 
